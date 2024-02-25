@@ -67,8 +67,8 @@ dependencies {
 	// implementation "io.agora.rtc:voice-rtc-basic:${agora_sdk_version}"
  	implementation "io.agora.rtc:ains:${agora_sdk_version}"
  	implementation "io.agora.rtc:clear-vision:${agora_sdk_version}"
- 	implementation "io.agora.rtc:audio-beauty:${agora_sdk_version}"
- 	implementation "io.agora.rtc:spatial-audio:${agora_sdk_version}"
+ 	//implementation "io.agora.rtc:audio-beauty:${agora_sdk_version}"
+ 	//implementation "io.agora.rtc:spatial-audio:${agora_sdk_version}"
  	// implementation "io.agora.rtc:spatial-audio:${agora_sdk_version}"
 }
 
